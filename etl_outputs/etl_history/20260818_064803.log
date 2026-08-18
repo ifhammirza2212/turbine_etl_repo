@@ -1,0 +1,4 @@
+2026-08-18 06:48:52,960 WARNING turbine_etl - duplicate entry for turbine 1 at 2022-03-01 00:00:00, latest entry rendered invalid
+2026-08-18 06:49:14,544 WARNING turbine_etl - 1 anomalous entries for turbine 1 at 2022-03-01 00:00:00 omitted from dataset
+2026-08-18 06:49:42,121 WARNING turbine_etl - missing datapoint due to sensor malfunction for turbine 15, at 2022-03-01 23:00:00
+2026-08-18 06:50:09,981 WARNING turbine_etl - unexpected entry for turbine 1 at 2022-03-01 00:00:00, outside the expected range of entries for 2022-03-01

@@ -1,1 +1,5 @@
 .venv/
+.flake8
+__pycache__/
+.env
+*.egg-info/
